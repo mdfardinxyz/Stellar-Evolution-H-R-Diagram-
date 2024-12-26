@@ -7,4 +7,4 @@ Supervisor: [Dr. Khan Asad](https://coalab.space/people/asad/) | Astronomer and 
 
 Timeline: April 2024
 
-This project was part of the [AST201 - Introduction to Astronomy](https://cassa.site/abekta/courses/ast201) course.
+This project was part of the [AST301 - Introduction to Astrophysics](https://cassa.site/abekta/courses/ast301) course.
