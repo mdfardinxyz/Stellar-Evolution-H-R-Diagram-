@@ -5,8 +5,8 @@ A course of study on star formation and life-cycle, which delved into the physic
 
 **My contribution:** Section 2 (Modeling method)
 
-Supervisor: [Dr. Khan Asad](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer and Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
 Timeline: April 2024
 
-This project was part of the [AST301 - Introduction to Astrophysics](https://cassa.site/abekta/courses/ast301) course.
+This project was part of the [**AST301 - Introduction to Astrophysics**](https://cassa.site/abekta/courses/ast301) course.
