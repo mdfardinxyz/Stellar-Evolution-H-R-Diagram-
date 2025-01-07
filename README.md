@@ -5,7 +5,7 @@ A course of study on star formation and life-cycle, which delved into the physic
 
 **My contribution:** Section 2 (Modeling method)
 
-Supervisor: [**Dr. Khan Asad**](https://coalab.space/people/asad/) | Astronomer, Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
+Supervisor: [**Dr. Khan Muhammad Bin Asad**](https://coalab.space/people/asad/) | Astronomer, Director of Center for Astronomy, Space Science and Astrophysics (CASSA) | Assistant Professor, Department of Physical Sciences, Independent University Bangladesh (IUB)
 
 This project was part of the [**AST301 - Introduction to Astrophysics**](https://cassa.site/entry/ast301/) course from the [**Astronomy and Astrophysics**](https://cassa.site/minor/) minor, IUB.
 
