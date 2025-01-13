@@ -11,5 +11,6 @@ This project was part of the [**AST301 - Introduction to Astrophysics**](https:/
 
 Timeline: April 2024
 
-[![Screenshot from 2025-01-13 06-26-50](https://github.com/user-attachments/assets/91c6c0a1-52ac-4925-931f-bc8a345ff0bb)](https://github.com/mdfardinxyz/Stellar-Evolution-H-R-Diagram-/blob/main/Project%20Report%20(star%20simulation).pdf)
+[![image](https://github.com/user-attachments/assets/3f2c1d3f-88a4-4e49-a2a7-7746d36993cf)](https://github.com/mdfardinxyz/Stellar-Evolution-H-R-Diagram-/blob/main/Project%20Report%20(star%20simulation).pdf)
+
 (click the image for details)
